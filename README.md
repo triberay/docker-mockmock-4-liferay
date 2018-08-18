@@ -1,2 +1,2 @@
 # docker-mockmock-4-liferay
-docker image with mockmock for use with Liferay Portal
+docker image for use with [triberay/liferay-portal](https://hub.docker.com/r/triberay/liferay-portal/)
